@@ -1,7 +1,7 @@
 # tmQM dataset
 This repository contains the coordinates ([data/tmQM_X1.xyz.gz](data/tmQM_X1.xyz.gz) and [data/tmQM_X2.xyz.gz](data/tmQM_X2.xyz.gz)) and properties ([data/tmQM_y.csv](data/tmQM_y.csv)) of the 116,332 structures in the tmQM dataset.
 
-More information is available in our paper on ChemRxiv (add link).
+More information is available in our paper on [ChemRxiv](https://chemrxiv.org/articles/preprint/The_tmQM_Dataset_-_Quantum_Geometries_and_Properties_of_86k_Transition_Metal_Complexes/12894818/1).
 
 ## Data
 ###### [data/tmQM_X1.xyz.gz](data/tmQM_X1.xyz.gz) and [data/tmQM_X2.xyz.gz](data/tmQM_X2.xyz.gz)
