@@ -2,7 +2,7 @@
 
 This repository contains the quantum geometries ([data/tmQM_X1.xyz.gz](data/tmQM_X1.xyz.gz) and [data/tmQM_X2.xyz.gz](data/tmQM_X2.xyz.gz)) and properties ([data/tmQM_y.csv](data/tmQM_y.csv)) of the 86,665 transition metal complexes in the tmQM dataset.
 
-More information is available in our preprint on [ChemRxiv](https://chemrxiv.org/articles/preprint/The_tmQM_Dataset_-_Quantum_Geometries_and_Properties_of_86k_Transition_Metal_Complexes/12894818/1).
+More information is available in our paper in [JCIM](https://pubs.acs.org/doi/10.1021/acs.jcim.0c01041) or the preprint on [ChemRxiv](https://chemrxiv.org/articles/preprint/The_tmQM_Dataset_-_Quantum_Geometries_and_Properties_of_86k_Transition_Metal_Complexes/12894818/1).
 
 ## Data
 ###### [data/tmQM_X1.xyz.gz](data/tmQM_X1.xyz.gz) and [data/tmQM_X2.xyz.gz](data/tmQM_X2.xyz.gz)
