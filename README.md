@@ -17,3 +17,11 @@ More information is available in our paper in [JCIM](https://pubs.acs.org/doi/10
 ###### [data/Benchmark2_TPSSh_Opt.xyz](data/Benchmark2_TPSSh_Opt.xyz)
 - Contains the Cartesian coordinates of all metal complexes of benchmark 2 optimized at the DFT(TPSSh-D3BJ/def2-SVP) level in .xyz format.
 - Additional information such as the molecular size and CSD code is also included.
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
