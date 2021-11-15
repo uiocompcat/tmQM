@@ -25,5 +25,5 @@ More information is available in our paper in [JCIM](https://pubs.acs.org/doi/10
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
 
-[cc-by]: http://creativecommons.org/licenses/by-nc/4.0/
-[cc-by-image]: https://i.creativecommons.org/l/by-nc/4.0/88x31.png
+[cc-by-nc]: http://creativecommons.org/licenses/by-nc/4.0/
+[cc-by-nc-image]: https://i.creativecommons.org/l/by-nc/4.0/88x31.png
