@@ -20,10 +20,10 @@ More information is available in our paper in [JCIM](https://pubs.acs.org/doi/10
 
 ---
 
-[![CC BY 4.0][cc-by-image]][cc-by]
+[![CC BY NC 4.0][cc-by-nc-image]][cc-by-nc]
 
 This work is licensed under a
-[Creative Commons Attribution 4.0 International License][cc-by].
+[Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
 
-[cc-by]: http://creativecommons.org/licenses/by/4.0/
-[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by]: http://creativecommons.org/licenses/by-nc/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by-nc/4.0/88x31.png
