@@ -4,7 +4,7 @@ This repository contains the quantum geometries ([data/tmQM_X1.xyz.gz](data/tmQM
 
 More information is available in our paper in [JCIM](https://pubs.acs.org/doi/10.1021/acs.jcim.0c01041) or the preprint on [ChemRxiv](https://chemrxiv.org/articles/preprint/The_tmQM_Dataset_-_Quantum_Geometries_and_Properties_of_86k_Transition_Metal_Complexes/12894818/1).
 
-**UPDATE**: The tmQM dataset now includes the atomic natural charges (at the DFT(TPSSh-D3BJ/def2-SVP) level) and Wiberg bond orders (at the GFN2-xTB level). All data is available for download from the [UiO Computational Catalysis Group website](https://www.uiocompcat.info/tmqmdataset).
+**UPDATE**: The tmQM dataset now includes the atomic natural charges at the DFT(TPSSh-D3BJ/def2-SVP) level and Wiberg bond orders at the GFN2-xTB level. All data is available for download from the [UiO Computational Catalysis Group website](https://www.uiocompcat.info/tmqmdataset).
 
 ## Data
 ###### [data/tmQM_X1.xyz.gz](data/tmQM_X1.xyz.gz) and [data/tmQM_X2.xyz.gz](data/tmQM_X2.xyz.gz)
