@@ -38,7 +38,7 @@ The **tmQM** dataset is also available for download from the [UiO Computational 
 - This and all data below is from the 2020 release of the CSD.
 
 ###### [old_tmQM/old_tmQM_y.csv](tmQM/tmQM_y.csv)
-- Contains the quantum chemical properties of the 86k TMCs computed at the DFT(TPSSh-D3BJ/def2-TZVP) level.
+- Contains the quantum chemical properties of the 86k TMCs computed at the DFT(TPSSh-D3BJ/def2-SVP) level.
 - The DFT properties included are the electronic energy, dispersion energy, dipole moment, natural charge at the metal center, HOMO-LUMO gap, HOMO energy, and LUMO energy. The  polarizability is at the GFN2-xTB level of theory.
 
 ###### [old_tmQM/Benchmark2_TPSSh_Opt.xyz](old_tmQM/Benchmark2_TPSSh_Opt.xyz)
