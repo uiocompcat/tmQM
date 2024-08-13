@@ -2,7 +2,7 @@
 
 This repository contains the quantum chemical properties, including geometries, natural atomic charges and Wiberg bond orders of the 108k transition metal complexes (TMCs) in the 2024 release of the **tmQM** dataset. This collection includes all 30 transition metals across the 3d, 4d and 5d series, combined with more than 30k different ligands.
 
-![tmQM_Figure](https://user-images.githubusercontent.com/51946437/91875604-fabc5300-ec7b-11ea-9b0d-b6b308dc942b.png)
+![108k_tmQM_Web_Figure](https://github.com/user-attachments/assets/aad441fb-42e1-4086-b2ed-24565c201d17)
 
 The **tmQM** dataset contains organometallic, bioinorganic, and Werner complexes. Structures were extracted from the 2024 release of the Cambridge Structural Database (CSD) with a series of filters, yielding mononuclear TMCs with charges in the range [-1, 0, 1]. Electronic structure properties, including the energy, dipole moment, polarizability, and HOMO–LUMO gap, were all computed for the closed-shell singlet state. Two levels of theory were used: GFN2-xTB (geometries) and DFT (single-point properties).
 
